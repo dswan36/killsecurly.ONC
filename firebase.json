@@ -1,0 +1,7 @@
+{
+  "hosting": {
+    "site": "kysecurly",
+
+    "public": "public"
+  }
+}
